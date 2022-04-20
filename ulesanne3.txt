@@ -1,4 +1,4 @@
 3. Oma ülesanne(2) (andke vastused küsimustele(eesti keeles)vastus on kommentar(/*...*/)
 
-1.Lihtsaim programmeerimiskeel algajatele?
-2.Millist looma kasutatakse pildi jaoks LINUX?
+1.Lihtsaim programmeerimiskeel algajatele? /* Python */
+2.Millist looma kasutatakse pildi jaoks LINUX? /* pingviin */
