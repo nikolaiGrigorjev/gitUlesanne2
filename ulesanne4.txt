@@ -1,9 +1,9 @@
 Logical ülesanne muuda errors
 
-wheare - 
-s3lct -
-CRAETE -
-FGOM - 
-PREMIRY KEYY -
-VARCRAH -
-FARIEGNN KEY -
+wheare - where
+s3lct - select
+CRAETE - create
+FGOM - from
+PREMIRY KEYY - primary key
+VARCRAH - varchar
+FARIEGNN KEY - foreign key
