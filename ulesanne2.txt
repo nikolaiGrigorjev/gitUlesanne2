@@ -1,6 +1,6 @@
 2. Oma ülesanne(1) (tõlkige sõnad sisse, märkides need kommentaaridesse(eesti-inglish))
 
-1) Tarkvara
-2) Operatsiooni süstem
-3) Riistvara
+1) Tarkvara - Software
+2) Operatsiooni süstem - Operating system
+3) Riistvara - hardware
 
