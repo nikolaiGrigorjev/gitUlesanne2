@@ -1,0 +1,11 @@
+1.ülesanne palun leida viiga ja tee fix(/*...*/).
+
+1)SELECT    CustomerID; CustomerName * FROM Customers
+2)CREATE TABLE instructor * (
+  ID = CHAR(5),
+  name = VARCHAR(20) NOT NULL,
+  dept_name = VARCHAR(20),
+  salary = NUMERIC(8,2),
+  PRIMARY KEY = (ID),
+  FOREIGN KEY = (dept_name) REFERENCES department(dept_name)
+);
